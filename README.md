@@ -30,4 +30,4 @@ A estrutura modular do projeto separa responsabilidades de forma clara:
 
 ## 📐 Diagrama UML (PlantUML)
 
-![Diagrama UML](diagrama.jpg)
+![Diagrama UML](./projeto_montadora/diagrama.jpg)
